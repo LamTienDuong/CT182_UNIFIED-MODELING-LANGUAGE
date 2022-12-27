@@ -1,2 +1,0 @@
-# CT182_UNIFIED-MODELING-LANGUAGE
-Ngôn ngữ mô hình hóa
